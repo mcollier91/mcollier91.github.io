@@ -1,6 +1,21 @@
+@import "./bulma/utilities/initial-variables";
+@import "./bulma/utilities/functions";
 
+
+
+$danger: rgb(205, 77, 74);
+
+@import "./bulma";
+
+html, body {
+  background-color: $background;
+}
 
 #header-hero-body {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+}
+
+.image-circle {
+  border-radius: 40%;
 }
