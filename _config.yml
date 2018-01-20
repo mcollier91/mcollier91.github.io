@@ -17,7 +17,7 @@ title: Greater Grand Rapids DSA
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Grand Rapids Chapter of the Democratic Socialists of America
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/grdsa" # the subpath of your site, e.g. /blog
 url: "http://grdsa.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: GrandRapidsDSA
